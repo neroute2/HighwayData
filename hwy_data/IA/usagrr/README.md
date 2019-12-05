@@ -1,0 +1,3 @@
+source: https://iowadot.gov/iowasbyways/Byway-Corridor-Management-Plans/Iowa-Great-River-Road-CMP (note that the realignments have happened, at least through Camanche - but in Guttenberg it uses DeKalb Street, not Koerner Street: https://www.google.com/maps/@42.7739222,-91.100564,3a,75y,170.9h,86.56t/data=!3m6!1e1!3m4!1sHURQjKB0QKCmYozOKvmbqQ!2e0!7i13312!8i6656 and Broadway Street in north Guttenberg needs verification; Harpers Ferry also needs to be checked against signs)
+
+The Cascade Bridge in southern Burlington has been closed since 2008, and needs checking to see if it's still signed as part of the route. It is listed as a realignment in the above documents.
