@@ -40,15 +40,16 @@ SanDiaAve http://www.openstreetmap.org/?lat=34.124666&lon=-117.807169
 CA210 http://www.openstreetmap.org/?lat=34.120048&lon=-117.786924
 WheAve http://www.openstreetmap.org/?lat=34.117268&lon=-117.776886
 FliSt http://www.openstreetmap.org/?lat=34.112168&lon=-117.761657
-TowAve http://www.openstreetmap.org/?lat=34.107094&lon=-117.736831
+TowAve +PomLim http://www.openstreetmap.org/?lat=34.107094&lon=-117.736831
 MonVisAve http://www.openstreetmap.org/?lat=34.106784&lon=-117.698400
 MouAve http://www.openstreetmap.org/?lat=34.107034&lon=-117.670097
 EucAve http://www.openstreetmap.org/?lat=34.106986&lon=-117.651188
+CamAve http://www.openstreetmap.org/?lat=34.107145&lon=-117.641516
 VinAve http://www.openstreetmap.org/?lat=34.106668&lon=-117.611089
 ArcAve http://www.openstreetmap.org/?lat=34.106599&lon=-117.593515
 HavAve http://www.openstreetmap.org/?lat=34.106482&lon=-117.575877
 MilAve http://www.openstreetmap.org/?lat=34.106419&lon=-117.556973
-I-15(112) http://www.openstreetmap.org/?lat=34.106321&lon=-117.532135
+I-15 http://www.openstreetmap.org/?lat=34.106321&lon=-117.532135
 CheAve http://www.openstreetmap.org/?lat=34.106553&lon=-117.488801
 CitAve http://www.openstreetmap.org/?lat=34.106561&lon=-117.453632
 SirAve http://www.openstreetmap.org/?lat=34.106577&lon=-117.435780
