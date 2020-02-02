@@ -13,6 +13,7 @@ Fort de Chartres (at IL155)
 Granite City (at I-270(3))
 Lewis and Clark State Historic Site (at NewPoagRd)
 Kampsville (at IL100_N)
+City Park Stone Arch Bridge (at RJPetDr)
 Gladstone Lake
 New Boston (at IL17_W)
 
