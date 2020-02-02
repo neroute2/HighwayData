@@ -15,6 +15,7 @@ Lewis and Clark State Historic Site (at NewPoagRd)
 Kampsville (at IL100_N)
 City Park Stone Arch Bridge (at RJPetDr)
 Gladstone Lake
+River Access (at 8thSt_N)
 New Boston (at IL17_W)
 
 According to http://www.greatriverroad-illinois.org/pdfs/S-N%20Driving%20Directions.pdf it used to go differently between Quincy and Hamilton, which explains inconsistent signage in Hamilton.
