@@ -17,5 +17,7 @@ City Park Stone Arch Bridge (at RJPetDr)
 Gladstone Lake
 River Access (at 8thSt_N)
 New Boston (at IL17_W)
+Rock Island Arsenal (at 24thSt_N)
+"info" (at MisPalSP_N)
 
 According to http://www.greatriverroad-illinois.org/pdfs/S-N%20Driving%20Directions.pdf it used to go differently between Quincy and Hamilton, which explains inconsistent signage in Hamilton.
