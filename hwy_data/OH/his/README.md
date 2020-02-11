@@ -1,0 +1,4 @@
+National Road source: http://gis3.dot.state.oh.us/ScenicByways/HNR.html
+I can't find any signs on the old route in South Vienna, despite being in the source. There is at least one in Summerford: https://www.google.com/maps/@39.9337697,-83.491515,3a,15.9y,115.45h,84.98t/data=!3m6!1e1!3m4!1sJuNWrTHMwid9o5pB9tMKvw!2e0!7i13312!8i6656
+Signage in Columbus is not so great, but there's at least one: https://www.google.com/maps/@39.9580206,-82.9795932,3a,23.6y,112.36h,87.9t/data=!3m6!1e1!3m4!1sOHSl_yaL7Cdxck8z2I8NaA!2e0!7i13312!8i6656
+I can't find any signs on the old route in Etna, Gratiot, Hopewell, Zanesville, Craig, Hendrysburg, Morristown. I'm not sure how much is signed east of Old Washington. It is signed through Fairview despite being a hanging end: https://www.google.com/maps/@40.0560914,-81.2289656,3a,23.1y,276.75h,86.27t/data=!3m6!1e1!3m4!1sz_azJEcJvgUeO6euNiLUXQ!2e0!7i13312!8i6656
