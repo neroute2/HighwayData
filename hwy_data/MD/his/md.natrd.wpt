@@ -18,7 +18,7 @@ MD36_S http://www.openstreetmap.org/?lat=39.651285&lon=-78.911217
 MD638 http://www.openstreetmap.org/?lat=39.652553&lon=-78.896846
 MD55 http://www.openstreetmap.org/?lat=39.643288&lon=-78.888327
 MD53 http://www.openstreetmap.org/?lat=39.636894&lon=-78.845272
-MD658 +VocRd http://www.openstreetmap.org/?lat=39.638942&lon=-78.830540
+MD658 http://www.openstreetmap.org/?lat=39.638942&lon=-78.830540
 MD36 http://www.openstreetmap.org/?lat=39.670199&lon=-78.790244
 BalAve_W http://www.openstreetmap.org/?lat=39.653057&lon=-78.757864
 I-68(44) http://www.openstreetmap.org/?lat=39.656968&lon=-78.748155
@@ -61,7 +61,7 @@ BigPoolRd http://www.openstreetmap.org/?lat=39.646015&lon=-78.003531
 FunRd http://www.openstreetmap.org/?lat=39.648910&lon=-77.985393
 +X832948 http://www.openstreetmap.org/?lat=39.645825&lon=-77.969295
 +X675966 http://www.openstreetmap.org/?lat=39.655870&lon=-77.955261
-MD68 http://www.openstreetmap.org/?lat=39.656596&lon=-77.928407
+MD68_W http://www.openstreetmap.org/?lat=39.656596&lon=-77.928407
 MD57 http://www.openstreetmap.org/?lat=39.658637&lon=-77.883904
 MD63 http://www.openstreetmap.org/?lat=39.651492&lon=-77.800165
 MD144Hag http://www.openstreetmap.org/?lat=39.651079&lon=-77.777227
@@ -71,7 +71,7 @@ WasSt http://www.openstreetmap.org/?lat=39.646973&lon=-77.728679
 US11 http://www.openstreetmap.org/?lat=39.645849&lon=-77.726083
 US40_Hag http://www.openstreetmap.org/?lat=39.642049&lon=-77.718358
 MD65 http://www.openstreetmap.org/?lat=39.638483&lon=-77.720847
-MD68 http://www.openstreetmap.org/?lat=39.520024&lon=-77.660079
+MD68_E http://www.openstreetmap.org/?lat=39.520024&lon=-77.660079
 MD66 http://www.openstreetmap.org/?lat=39.512476&lon=-77.655605
 MD34 http://www.openstreetmap.org/?lat=39.506392&lon=-77.652183
 MD67 http://www.openstreetmap.org/?lat=39.497418&lon=-77.644629
